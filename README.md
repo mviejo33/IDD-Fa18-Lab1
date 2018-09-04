@@ -45,7 +45,7 @@ About 13 ms, I could record it and slow down the video.
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-**Frankenlight: Hijacking alarm clock:** https://www.youtube.com/watch?v=R7EJZwu4U84
+**Link to LED blinking:** https://www.youtube.com/watch?v=R7EJZwu4U84
 
 
 
